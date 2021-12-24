@@ -1,4 +1,4 @@
-# How to add machine profile?
+# How to add machine profile to Cura 4.12.1?
 
 ## 1. Set up the slicing software Cura 4.12 in the computer.
 ![image](https://github.com/goofoo3d/goofoo_machine/blob/master/pic/4.12/1.png)
