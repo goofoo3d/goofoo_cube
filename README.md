@@ -6,7 +6,7 @@
 ## 2. Once finish the installation, you can locate the root directory and find the folder "resources".
 ![image](https://github.com/goofoo3d/goofoo_machine/blob/master/pic/4.12/2.png)
 
-## 3. You overwrite and replace the original “resources” folder with the one we provide, then restart the Cura software.
+## 3. You overwrite and replace the original "resources" folder with the one we provide, then restart the Cura software.
 
 ## 4. Choose "Add printer" when you run the Cura software.
 ![image](https://github.com/goofoo3d/goofoo_machine/blob/master/pic/4.12/3.png)
