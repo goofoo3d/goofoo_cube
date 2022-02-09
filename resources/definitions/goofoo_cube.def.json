@@ -17,8 +17,6 @@
         "speed_layer_0":{"value": 10},
         "speed_print_layer_0":{"value": 10},
         "speed_travel_layer_0":{"value": 10},
-        "retraction_speed": {"default_value": 10},
-        "retraction_prime_speed":{"value": 10},
         "adhesion_type": {"default_value": "skirt"}
     },
     "metadata": {
