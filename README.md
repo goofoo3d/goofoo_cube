@@ -32,7 +32,7 @@
 ![image](https://github.com/goofoo3d/goofoo_machine/blob/master/pic/4.12/mac/1.jpg)
 
 
-### 2. Open the 'resource' and drag the files into the Cura's configuration folder one by one as shown in the picture.
+### 2. Open the 'resources' and drag the files into the Cura's configuration folder one by one as shown in the picture.
 ![image](https://github.com/goofoo3d/goofoo_machine/blob/master/pic/4.12/mac/2.jpg)
 
 ### 3. Reopen Cura then you can add Goofoo Cube.
