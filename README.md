@@ -28,7 +28,7 @@
 
 ## Mac
 
-### 1. Click 'Help', then click 'Show Configuration Folder and Cura's configuration folder will open.
+### 1. Click 'Help', then click 'Show Configuration Folder' and Cura's configuration folder will open.
 ![image](https://github.com/goofoo3d/goofoo_machine/blob/master/pic/4.12/mac/1.jpg)
 
 
