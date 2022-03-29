@@ -7,6 +7,7 @@
 ---
 
 ## How to download zip file?
+
 ### 1. Click "Code", then click "Download ZIP".
 ![image](https://github.com/goofoo3d/goofoo_machine/blob/master/pic/4.12/download/1.png)
 ---
