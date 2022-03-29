@@ -1,12 +1,12 @@
 # How to add machine profile to Cura 4.12.1?
 
 # Table of contents
-* [How to download zip file?](#How to download zip file?)
+* [How to download zip file?](#Download_Zip_File)
 * [Windows](#Windows)
 * [Mac](#Mac)
 ---
 
-## How to download zip file?
+## Download_Zip_File
 
 ### 1. Click "Code", then click "Download ZIP".
 ![image](https://github.com/goofoo3d/goofoo_machine/blob/master/pic/4.12/download/1.png)
