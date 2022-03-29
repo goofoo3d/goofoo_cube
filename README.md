@@ -1,7 +1,7 @@
 # How to add machine profile to Cura 4.12.1?
 
 # Table of contents
-* [How to download zip file?]
+* [How to download zip file?](How to download zip file?)
 * [Windows](#Windows)
 * [Mac](#Mac)
 ---
